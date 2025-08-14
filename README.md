@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey there, I'm Ruan! 👋</h1>
   <p>
-    Passionate developer, maker, and a strong believer in the power of good coffee.
+    Passionate developer, maker, and a strong believer in only one cup of quality coffee a day.
   </p>
 </div>
 
@@ -9,13 +9,12 @@
 
 ### 💻 A Bit About Me
 
-I'm a full-stack developer with a love for building things that connect the digital and physical worlds. My journey often takes me through **Python** and **Ruby**, where I enjoy crafting clean and efficient code.
+I'm a full-stack developer with a love for building things that matter for underserved communities/peoples, i've sofar worked in companies that helped me accomplish that goal.
 
 When I'm not coding, you can find me:
 - 📸 Capturing moments through the lens of my camera.
-- 💡 Tinkering with **IoT** devices and bringing smart ideas to life.
-- ⌨️ Optimizing my workflow on my **Ergo Split keyboard**.
-- ☕ Fueling my creativity with a fresh cup of coffee.
+- 💡 Tinkering with microcontrollers and shitty terminal apps.
+- ⌨️ Pretending like my **Ergo Split keyboard** was a project for my health and not just a fun side project.
 
 ---
 
@@ -56,16 +55,13 @@ Here are some of the technologies and tools I'm comfortable with:
 ### 🤝 Let's Connect
 
 - **GitHub**: [@ruansonder-r](https://github.com/ruansonder-r)
-- **LinkedIn**: Connect with me on LinkedIn
-- **Email**: Feel free to reach out for collaboration or questions
+- **LinkedIn**: [@ruanwithjob](www.linkedin.com/in/ruansonder-r)
+- **Email**: ruansonder.r@gmail.com
 
 ---
 
 <div align="center">
 
-> "The best way to predict the future is to create it."  
-> – Alan Kay
-
-**Thanks for visiting my profile! 🚀**
+> "wotalotigot."  
 
 </div>
