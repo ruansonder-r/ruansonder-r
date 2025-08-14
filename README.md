@@ -46,7 +46,6 @@ Here are some of the technologies and tools I'm comfortable with:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruansonder-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruansonder-r&layout=compact&theme=tokyonight&hide_border=true)
 
