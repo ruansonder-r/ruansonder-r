@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there, I'm Ruan! 👋</h1>
+  <h1>Whaddup nerd, I'm Ruan</h1>
   <p>
     Passionate developer, maker, and a strong believer in only one cup of quality coffee a day.
   </p>
@@ -34,12 +34,14 @@ Here are a few projects I'm currently working on or have recently contributed to
 Here are some of the technologies and tools I'm comfortable with:
 
 - **Languages**: Python, Ruby, JavaScript, TypeScript, C
-- **Frameworks**: Rails, React, React Native, Expo
+- **Frameworks**: Rails, React, React Native,Django, Flask, FastAPI
 - **Mobile**: React Native, Firebase, Cross-platform development
-- **Backend**: Ruby on Rails, RESTful APIs, Firebase
-- **Tools**: Neovim, Git, Docker, Linux, Hyprland
-- **Hardware**: ZMK Keyboard Firmware, Ergo Split keyboards, IoT
-- **Specialties**: Web scraping, Terminal applications, Developer tooling
+- **Backend**: Ruby on Rails, RESTful APIs, Firebase, Django, Python
+- **Tools**: Neovim, Git, Docker, Linux
+- **Hardware**: ZMK, IoT, Arduino, SCADA, Clustering
+- **Specialties**: Hardware integrations, API integrations, performance optimisation, Legacy refactoring.
+- **Data**: MySQL,Postgress, Data Lakes, Tableu, BI shiz 
+- **ML/AI**: Scikit-Learn, Tensorflow, ML Engineering, Predictive Analytics. 
 
 ### 📊 GitHub Stats
 
